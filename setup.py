@@ -1,10 +1,10 @@
 from setuptools import setup
 
 setup(
-    name = "harajofil.py",
+    name = "jumipoha.py",
     version = "0.1",
-    py_modules = ['harajofil'],
-    url = "https://github.com/harajofil/harajofil.git",
-    author = "harajofil",
+    py_modules = ['jumipoha'],
+    url = "https://github.com/jumipoha/jumipoha.git",
+    author = "jumipoha",
     install_requires = ["pyngrok"]
 )
